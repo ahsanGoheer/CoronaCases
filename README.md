@@ -1,4 +1,4 @@
 # CoronaCases
-A UWP application which uses web scraping to get corona virus cases in Pakistan.
+An starter UWP application.
 
 <img src="./Assets/Snapshot.png" width=1000 />
